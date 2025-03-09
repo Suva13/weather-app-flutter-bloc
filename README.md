@@ -30,8 +30,8 @@ A simple weather app built using **Flutter** and **Flutter Bloc** for state mana
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app-flutter-bloc.git
-   cd weather-app-flutter-bloc
+   git clone https://github.com/Suva13/weather-app-flutter-bloc.git
+
    ```
 
 2. Add your OpenWeatherMap API key:
