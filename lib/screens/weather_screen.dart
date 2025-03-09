@@ -42,7 +42,7 @@ class WeatherScreen extends StatelessWidget {
                   return Text(state.message);
                 }
 
-                return SizedBox();
+                return Container();
               },
             ),
           ],
